@@ -4,6 +4,10 @@
 .settings
 .vscode
 
+# Maven compiled files
+HelloWorldEclipse/target/
+HelloWorldMaven/target/
+
 # Compiled class file
 *.class
 
