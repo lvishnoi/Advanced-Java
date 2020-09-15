@@ -1,3 +1,7 @@
+# Eclipse and VS code files
+.classpath
+.project
+.settings
 .vscode
 
 # Compiled class file
