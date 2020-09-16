@@ -7,6 +7,7 @@
 # Maven compiled files
 HelloWorldEclipse/target/
 HelloWorldMaven/target/
+guava-example/target
 
 # Compiled class file
 *.class
